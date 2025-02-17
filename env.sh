@@ -1,0 +1,1 @@
+source "/media/hp/New Volume/teja_works/installs/env/bin/activate"
